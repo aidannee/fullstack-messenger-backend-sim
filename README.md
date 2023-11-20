@@ -58,9 +58,6 @@ To run this backend server locally, follow these steps:
 - **PUT /messages/:id:** Update a message by ID.
 - **DELETE /messages/:id:** Delete a message by ID.
 
-## Environment Variables
-
-Make sure to set the following environment variables in a `.env` file:
 
 - `DB_URI`: PostgreSQL database URI
 
